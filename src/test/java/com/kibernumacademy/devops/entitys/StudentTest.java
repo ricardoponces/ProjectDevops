@@ -33,4 +33,12 @@ public class StudentTest {
   }
 
   // Puedes continuar con pruebas similares para otras funcionalidades de la clase Student.
+  // Se agrega nueva TOD pendiente de revision
+  //@Test
+  //public void shouldGetFullName() {
+  //  assertEquals("James Gosling", student.getFullName()); // Comprobamos que el nombre completo es correcto inicialmente
+  //  student.setName("Richard");
+  //  student.setLastname("Stallman");
+  //  assertEquals("Richard Stallman", student.getFullName()); // Comprobamos que el nombre completo se actualiza correctamente
+  //}
 }
